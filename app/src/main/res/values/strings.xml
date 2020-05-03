@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Donate Blood</string>
+    <string-array name="hospitals">
+        <item>Hamidia Hospital and Gandhi Medical College</item>
+        <item>JP Hospital</item>
+        <item>Indira Gandhi Mahila evam Bal Chikitsalya</item>
+        <item>Kasturba Hospital,BHEL</item>
+        <item>Indian Red Cross Society Blood Bank</item>
+        <item>M.P. Thelasmia Kid Care Society</item>
+        <item>Tatpar Pathology and Diagnostic Centre</item>
+        <item>Bhopal Memorial Hospital and Research Centre</item>
+        <item>Jawahar Lal Nehru Cancer Hospital Research Centre</item>
+        <item>People Hospital Blood Bank</item>
+        <item>Arpan Blood Bank</item>
+        <item>Chirayu Health and Medicare</item>
+        <item>RKDF Medical College Hospital and Research Centre</item>
+        <item>Bansal Hospital Redefining HealthCare</item>
+        <item>M/s Advance Institute of Medical Science and Research Centre Blood Bank of Advance Medical Science and Education Society</item>
+        <item>M/s Mahaveer Institute of Medical Sciences and Research</item>
+    </string-array>
+</resources>
